@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihir-R7&show_icons=true&locale=en" alt="adityakangune" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihir-R7&show_icons=true&locale=en&layout=compact" alt="adityakangune" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-R7&langs_count=8&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
