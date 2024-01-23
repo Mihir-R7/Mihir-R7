@@ -8,7 +8,7 @@
 
 
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avi8010&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-R7&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-R7&langs_count=8&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
