@@ -8,10 +8,9 @@
 
 
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-R7&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihir-R7&show_icons=true&locale=en" alt="adityakangune" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-R7&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihir-R7&show_icons=true&locale=en&layout=compact" alt="adityakangune" /></p>
 
 
 <!--
