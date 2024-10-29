@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1200">
 
-<h1 align="center">Hi 👋, I'm Gaurav Ghosh</h1>
-<h3 align="center">Flutter/Web Dev Enthusiast| BMU '27 | Developer</h3>
+<h1 align="center">Hi 👋, I'm Mihir Rajpathak</h1>
+<h3 align="center">Ml, AI, Data analytics, Web Dev Enthusiast| PICT '24 | Developer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masad92&label=Profile%20views&color=0e75b6&style=flat" alt="Mihir-R7" /> </p>
@@ -48,8 +48,8 @@
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-py-Ghosh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mihir-R7h&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihir-R7&theme=tokyonight" />
 </p>
 
 
